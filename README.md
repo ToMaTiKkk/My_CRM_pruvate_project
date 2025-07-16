@@ -1,10 +1,10 @@
 # CRM-система для Автосервиса
 
-![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python)
 ![Go](https://img.shields.io/badge/Go-1.21-00ADD8?style=for-the-badge&logo=go)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.103-009688?style=for-the-badge&logo=fastapi)
 ![GraphQL](https://img.shields.io/badge/GraphQL-Hot_Chocolate-E10098?style=for-the-badge&logo=graphql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-4169E1?style=for-the-badge&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=for-the-badge&logo=postgresql)
 ![Docker](https://img.shields.io/badge/Docker-24-2496ED?style=for-the-badge&logo=docker)
 ![CI/CD](https://img.shields.io/badge/CI/CD-GitLab-FC6D26?style=for-the-badge&logo=gitlab)
 
